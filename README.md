@@ -5,3 +5,4 @@ A Simple targeting game
 2)Select difficulty
 3)Play the game!
 
+//.exe file is in bin/debug/
