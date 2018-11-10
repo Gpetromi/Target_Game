@@ -1,0 +1,17 @@
+C:\Users\Greg\source\repos\Frog_game\bin\Debug\Frog_game.exe.config
+C:\Users\Greg\source\repos\Frog_game\bin\Debug\Frog_game.exe
+C:\Users\Greg\source\repos\Frog_game\bin\Debug\Frog_game.pdb
+C:\Users\Greg\source\repos\Frog_game\obj\Debug\Frog_game.csprojResolveAssemblyReference.cache
+C:\Users\Greg\source\repos\Frog_game\obj\Debug\Frog_game.Form1.resources
+C:\Users\Greg\source\repos\Frog_game\obj\Debug\Frog_game.Properties.Resources.resources
+C:\Users\Greg\source\repos\Frog_game\obj\Debug\Frog_game.csproj.GenerateResource.cache
+C:\Users\Greg\source\repos\Frog_game\obj\Debug\Frog_game.csproj.CoreCompileInputs.cache
+C:\Users\Greg\source\repos\Frog_game\obj\Debug\Frog_game.exe
+C:\Users\Greg\source\repos\Frog_game\obj\Debug\Frog_game.pdb
+C:\Users\Greg\source\repos\Frog_game\obj\Debug\Frog_game.Form2.resources
+C:\Users\Greg\source\repos\Frog_game\bin\Debug\Interop.WMPLib.dll
+C:\Users\Greg\source\repos\Frog_game\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Greg\source\repos\Frog_game\obj\Debug\Interop.WMPLib.dll
+C:\Users\Greg\source\repos\Frog_game\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Greg\source\repos\Frog_game\obj\Debug\Frog_game.csproj.ResolveComReference.cache
+C:\Users\Greg\source\repos\Frog_game\obj\Debug\Frog_game.Form3.resources
